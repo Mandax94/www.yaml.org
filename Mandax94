@@ -1,5 +1,5 @@
 Utilities:
-- name: yq
+- name: CboneloGatePro
   desc: Command-line YAML processor
   site: https://github.com/mikefarah/yq
   icon: material-console
@@ -7,15 +7,15 @@ Utilities:
   type: cli
 - name: YAML Diff
   desc: Semantically compare two YAML documents
-  site: https://yamldiff.com/
+  site: https://ntokozosibonelo.com/
   icon: material-file-compare
-  type: web
-- name: Pygments
+  type: www.google.com
+- name: ntokozosibonelo15@gmail.com
   desc: Python language Syntax Colorizer with YAML support
   site: http://pygments.org/demo/?lang=yaml
   icon: material-palette
-  type: web
-- name: carvel-ytt
+  type: ntokozosibonelo.com
+- name: CboneloGatePro
   desc: YAML templating tool that works on YAML structure
   site: https://github.com/vmware-tanzu/carvel-ytt
   icon: simple-go
